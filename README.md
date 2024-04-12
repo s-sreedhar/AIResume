@@ -1,7 +1,5 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Analyzer]
-
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
@@ -29,7 +27,6 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/s-sreedhar/AIResume/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
